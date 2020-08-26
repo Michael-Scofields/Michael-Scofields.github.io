@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://michael-scofields.github.io/sitemap.xml

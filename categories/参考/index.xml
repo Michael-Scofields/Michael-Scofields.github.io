@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>参考 on Michael-Scofields&#39;s Blog</title>
+    <link>https://michael-scofields.github.io/categories/%E5%8F%82%E8%80%83/</link>
+    <description>Recent content in 参考 on Michael-Scofields&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 25 Aug 2020 17:51:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://michael-scofields.github.io/categories/%E5%8F%82%E8%80%83/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Git Help</title>
+      <link>https://michael-scofields.github.io/post/git/</link>
+      <pubDate>Tue, 25 Aug 2020 17:51:00 +0800</pubDate>
+      
+      <guid>https://michael-scofields.github.io/post/git/</guid>
+      <description>Git 管理 克隆 在管理Git项目上，有两种克隆到本地的方法。 直接使用https url克隆到本地. 使用SSH url克隆到本地. 两种方式的主要区别在于</description>
+    </item>
+    
+  </channel>
+</rss>

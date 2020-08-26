@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Michael-Scofields&#39;s Blog</title>
+    <link>https://michael-scofields.github.io/tags/</link>
+    <description>Recent content in Tags on Michael-Scofields&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 25 Aug 2020 17:51:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://michael-scofields.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Michael</title>
+      <link>https://michael-scofields.github.io/tags/michael/</link>
+      <pubDate>Tue, 25 Aug 2020 17:51:00 +0800</pubDate>
+      
+      <guid>https://michael-scofields.github.io/tags/michael/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

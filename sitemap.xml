@@ -1,0 +1,74 @@
+<?xml-stylesheet type="text/xsl" href="https://michael-scofields.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://michael-scofields.github.io/post/git/</loc>
+    <lastmod>2020-08-25T17:51:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://michael-scofields.github.io/post/simple/</loc>
+    <lastmod>2018-07-10T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://michael-scofields.github.io/about/</loc>
+    <lastmod>2020-08-28T21:41:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://michael-scofields.github.io/categories/</loc>
+    <lastmod>2020-08-25T17:51:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://michael-scofields.github.io/tags/michael/</loc>
+    <lastmod>2020-08-25T17:51:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://michael-scofields.github.io/</loc>
+    <lastmod>2020-08-25T17:51:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://michael-scofields.github.io/post/</loc>
+    <lastmod>2020-08-25T17:51:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://michael-scofields.github.io/tags/</loc>
+    <lastmod>2020-08-25T17:51:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://michael-scofields.github.io/categories/%E5%8F%82%E8%80%83/</loc>
+    <lastmod>2020-08-25T17:51:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://michael-scofields.github.io/categories/test/</loc>
+    <lastmod>2018-07-10T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
